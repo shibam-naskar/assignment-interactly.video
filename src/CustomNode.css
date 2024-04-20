@@ -1,0 +1,15 @@
+.custom-node {
+    position: relative;
+  }
+  
+  .close-icon {
+    position: absolute;
+    width: '15px';
+    height: '15px';
+  }
+  
+  .custom-node:hover .close-icon {
+    opacity: 1;
+    transform: scale(1);
+  }
+  
